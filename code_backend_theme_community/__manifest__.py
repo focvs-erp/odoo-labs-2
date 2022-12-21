@@ -34,6 +34,7 @@
     "data": [
         'views/assets.xml',
         'views/icons.xml',
+        'views/menu.xml',
     ],
     "qweb": [
         'static/src/xml/styles.xml',
