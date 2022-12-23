@@ -51,19 +51,22 @@
     <record id="ax4b_asset.menu_root" model="ir.ui.menu">
         <field name="sequence">1080</field>
     </record>
-    <record id="point_of_sale.menu_point_root" model="ir.ui.menu">
+    <record id="hr_timesheet.timesheet_menu_root" model="ir.ui.menu">
         <field name="sequence">1085</field>
     </record>
-    <record id="mrp.menu_mrp_root" model="ir.ui.menu">
+    <record id="point_of_sale.menu_point_root" model="ir.ui.menu">
         <field name="sequence">1090</field>
     </record>
-    <record id="project.menu_main_pm" model="ir.ui.menu">
+    <record id="mrp.menu_mrp_root" model="ir.ui.menu">
         <field name="sequence">1095</field>
     </record>
-    <record id="sale.sale_menu_root" model="ir.ui.menu">
+    <record id="project.menu_main_pm" model="ir.ui.menu">
         <field name="sequence">1100</field>
     </record>
-    <record id="website.menu_website_configuration" model="ir.ui.menu">
+    <record id="sale.sale_menu_root" model="ir.ui.menu">
         <field name="sequence">1105</field>
+    </record>
+    <record id="website.menu_website_configuration" model="ir.ui.menu">
+        <field name="sequence">1110</field>
     </record>
     </odoo>
